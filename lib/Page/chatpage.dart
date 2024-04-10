@@ -24,7 +24,7 @@ class _ChatPageState extends State<ChatPage> {
   final TextEditingController _messsageController = TextEditingController();
   final ChatService _chatService = ChatService();
   final FirebaseAuth _firebaseAuth = FirebaseAuth.instance;
-
+  final co =5;
   void  sendMessage() async{
     //only send message if there is something to send
     if(_messsageController.text.isNotEmpty){
