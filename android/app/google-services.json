@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089363916926",
+    "project_id": "kuboard-cd7f2",
+    "storage_bucket": "kuboard-cd7f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089363916926:android:1e3fa154eee99ce4cd802f",
+        "android_client_info": {
+          "package_name": "com.example.kuboardverth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLS5psNnbmNiILRa-yl10kP4deGRXoVg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
